@@ -1,0 +1,17 @@
+h1
+{
+  color:red;
+  background: rgba(255, 0, 0, 0.5);
+
+}
+li{
+  color:green;
+  background: rgb(0, 50, 100);
+}
+h4{
+  color:grey;
+background: pink
+}
+body{
+  background:url(https://imgix.ranker.com/user_node_img/50059/1001174117/original/j-photo-u1?w=650&q=50&fm=pjpg&fit=crop&crop=faces);
+}
