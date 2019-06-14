@@ -1,0 +1,21 @@
+div{
+  display: flex;
+ flex: 0.005; }
+
+
+
+img{
+  width:20%;
+  float: left;
+  margin:1.66%
+}
+p{
+  font-family: Raleway;
+  margin-left: 1.66%;
+  font-size: 50px;
+  font-weight: 800;
+  text-transform: uppercase;
+border-bottom: 3px solid red;
+width: 20%;
+padding-bottom: 20px
+}
